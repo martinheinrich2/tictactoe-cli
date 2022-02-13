@@ -1,2 +1,2 @@
 # tictactoe-cli
-Tic Tac Toe game
+A simple text based Tic Tac Toe game.
